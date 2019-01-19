@@ -1,0 +1,63 @@
+.pgr
+	{
+		border: 5px solid black;
+		padding: 25px;
+		height: 1000px;
+	}
+.mygtukai
+	{
+		background-color: lightgrey;
+		padding: 15px;
+		height:20px;
+	}
+.pavadinimas
+	{
+		vertical-align: center; 
+		float: left;
+		font-size: 30px;
+	}
+.padding2
+	{
+		text-decoration:none;
+		text-align: right;
+		font-size: 15px;
+	}
+.asdf
+	{
+		padding: 10px;
+		margin: 40px;
+		border: 1px solid black;
+		width: 300px;
+		float: left;
+	}
+.tekstas
+	{
+		background-color: lightblue;
+		width:280px;
+		text-align: center;
+		padding: 10px;
+		border: 1px solid black;
+		font-size: 20px
+	}
+.foto
+	{
+		width: 280px;
+		padding: 10px;
+		text-align: center;		
+	}
+.foto1
+	{
+		width: 280px;
+		padding: 10px;
+		text-align: center;	
+		float: left;
+	}
+.asdf1
+	{
+		padding: 10px;
+		margin: 40px;
+		border: 1px solid black;
+		width: 320px;
+		float: left;
+		
+	}
