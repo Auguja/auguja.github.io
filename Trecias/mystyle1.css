@@ -63,14 +63,15 @@
 	}
 .antraste
 	{
-		text-align: center;
-		font-size: 30px;
+		
+		font-size: 35px;
 	}
 .atgal
 	{
 		fon-size:20px;
 		text-align: right;
 		text-decoration: none;
+		padding:10px;
 	}
 .data
 	{
