@@ -37,7 +37,7 @@
 		text-align: center;
 		padding: 10px;
 		border: 1px solid black;
-		font-size: 20px
+		font-size: 20px;
 	}
 .foto
 	{
@@ -66,4 +66,10 @@
 		text-align: left;
 		font-size: 30px;
 	}
+.atgal
+	{
+		fon-size:15px;
+		vertical-align: right;
+	}
+		
 
