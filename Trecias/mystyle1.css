@@ -75,5 +75,7 @@
 .data
 	{
 		color: grey;
+		padding: 5px;
+		text-align:left;
 	}
 
