@@ -78,4 +78,17 @@
 		padding: 10px;
 		text-align: center;
 	}
+.fotok
+	{
+		text-align:center;
+		border: 5px solid black;
+		weight: 400px;
+	}
+.tekstask
+	{
+		text-align: center;
+		padding: 10px;
+		font-size: 20px;
+	}
+		
 
